@@ -37,3 +37,17 @@ body {
   box-shadow: 0 0 3px 2px;
   opacity: 1;
 }
+
+
+.intro {
+  padding-top: 200px;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+}
+
+
+
+.intro a {
+  color: #4488ff;
+}
